@@ -28,6 +28,7 @@ If you are not comfortable working with GitHub, but would still like to contribu
     - Create a branch named after the work you're doing (if you're targeting a specific issue, start the branch name with the issue number e.g. ``42-feature-name``)
 * Do your work
     - If your work addresses a specific issue, reference that issue in your commit message by starting the commit message with ``[#issue number]`` e.g. ``[#64]``
+    - If you are working on a library, there should be a `CHANGELOG.md` in the repository, update this. Ideally this should be in the same commit that you do the work in (to help commit level debugging later).
 * Create a pull request
 
 # Talk to us
